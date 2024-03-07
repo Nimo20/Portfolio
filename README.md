@@ -8,7 +8,14 @@ Welcome to my developer portfolio! This portfolio showcases my skills, projects,
 - [Contact Me](#contact-me)
 
 ## About Me
-Hello there! 👋 I'm [Your Name], a dedicated Software Developer with a passion for crafting robust and scalable solutions. Currently working as a problem solver at [Current Workplace], I bring innovation and a commitment to delivering high-quality software solutions tailored for the unique challenges of the fintech world. Beyond coding, I enjoy exploring the latest tech trends, and you'll often find me immersed in open-source projects. Let's connect and discuss how my skills can contribute to your next project!
+Hello there! 👋 I'm Nimo, a dedicated Software Developer with a knack for crafting robust and scalable
+ solutions. Currently working as a problem solver at Target, I bring a
+ passion for innovation and a commitment to delivering high-quality software solutions tailored for
+ the unique challenges of the fintech world. Beyond coding, I enjoy exploring the latest tech trends, and
+ you'll often
+ find me immersed in open-source projects. Let's connect and discuss how my skills can contribute to your
+ next financial
+ technology endeavor!
 
 ## My Work
 ### Project 1: Weather Dashboard
