@@ -92,4 +92,37 @@ button {
     width: 100px;
 }
 
-footer {}
+/* Responsive Styles */
+@media (min-width: 576px) {
+    section {
+        padding: 40px;
+
+    }
+
+    .work-item {
+        flex: 1;
+        margin-right: 10px;
+
+    }
+}
+
+@media (min-width: 768px) {
+    h2 {
+        font-size: 1.5em;
+
+    }
+}
+
+@media (min-width: 992px) {
+    .work-item {
+        margin-right: 20px;
+
+    }
+}
+
+@media (min-width: 1200px) {
+    h2 {
+        font-size: 2em;
+
+    }
+}
